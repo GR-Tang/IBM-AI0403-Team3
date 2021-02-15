@@ -1,0 +1,16 @@
+[
+  {
+    "Partner_No": 0,
+    "Partner_Yes": 1,
+    "SeniorCitizen_No": 1,
+    "SeniorCitizen_Yes": 0,
+    "Dependents_No": 0,
+    "Dependents_Yes": 1,
+    "PhoneService_No": 0,
+    "PhoneService_Yes": 1,
+    "MultipleLines_No": 0,
+    "MultipleLines_Yes": 1,
+    "InternetService_DSL": 0,
+    "InternetService_Fiber": 1
+  }
+]
