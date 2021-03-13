@@ -16,7 +16,7 @@ Note: The extent of approach will be dependent on type of data, business goals, 
 <br>
 <h3>Project Intro:</h3>
 Team selected the use of Telco Churn Dataset. Business goal set to addressing high churn rate in telco company.<br>
-Project can be done using any tools, and the team used IBM Watson Studio, Rapidminer and Tableau, while I code using Python in parallel. Due to the compactness of the course, the team had 8 days from task allocation to final presentation.<br>
+Project can be done using any tools, and the team used IBM Watson Studio, RapidMiner and Tableau, while I code using Python in parallel. Due to the compactness of the course, the team had 8 days from task allocation to final presentation.<br>
 <h3>Project Contraints:</h3>
 Taking away the time needed for discussions, coaching the team members in Python fundamentals, preparing my individual MS Powerpoint slides and team rehearsals for presentation, I had FOUR DAYS to code, using unfamiliar libraries such as Scikit-Learn, BentoML, and other estimator algorithms. Flask, Docker and other infrequently used tools needed to be refreshed, and free accounts were set up in Azure, Google Clouds, AWS, and Heroku for testing. <br>
 As I am wrapping up the second portion of this project (prescriptive analytics), I had to dive into various theories not covered in the course such as the concept of Model Drift (Concept Drift and Data Drift).<br><br>
