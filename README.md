@@ -26,5 +26,5 @@ Challenging? Yes, tons of documentations to read, as well as constant trial and 
 Fun? Definitely.<br>
 <h3>Project Outcome:</h3>
 Copious amount of coffee and long heart-to-heart chats with my rubber ducky later... the project was completed.<br> 
-Most of the team members achieved above 96% grading for this project, and with their full support I managed to score 100% in project grading.<br>
+Most of the team members achieved above 96% grading for this project, and with their full support I managed to score 100% in this project grading.<br><p>
 Thank you team for spurring me on and learning together with me.
