@@ -4,8 +4,9 @@
 For the team's trial usage of jupyter notebook in colab.
 
 <h3>Background & Guidelines of Project: </h3>
-![image](https://user-images.githubusercontent.com/71828614/111015054-ee127780-83e1-11eb-878f-1240b8cd3277.png)
-![image](https://user-images.githubusercontent.com/71828614/111014914-13eb4c80-83e1-11eb-93f0-8e052638c016.png)
+![1](https://user-images.githubusercontent.com/71828614/111017194-d68cbc00-83ec-11eb-8451-3d19294ab0bc.jpg)
+
+![2](https://user-images.githubusercontent.com/71828614/111017204-e2787e00-83ec-11eb-9142-f0dfe5423149.jpg)
 Instructors should highlight to learners that the 8 stages in data science methodology approach can be viewed as two larger groupings:
 <ul>
 <li>the first grouping consist: business understanding, exploration, transformation and visualization of data </li>
