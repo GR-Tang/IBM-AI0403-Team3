@@ -25,5 +25,5 @@ Fun? Definitely.<br>
 <h3>Project Outcome:</h3>
 Copious amount of coffee and long heart-to-heart chats with my rubber ducky later... the project was completed. Most of the team members achieved above 96% grading for this project, and with their full support I managed to score 100% in this project grading.<br>
 <img src="https://user-images.githubusercontent.com/71828614/111037787-b0086880-8460-11eb-92ac-880e68544292.jpg">
-Presentation slide-deck can be downloaded at: <a href="https://portfolio-grtang.herokuapp.com/static/codes/DataScienceProjectWork.fe2ff59de7f1.pptx">here</a>.<br>
+Presentation slide-deck can be downloaded at: <a href="https://portfolio-grtang.herokuapp.com/static/codes/DataScienceProjectWork.b36926146f0a.pdf">here</a> (My presentation part is slide 119 to slide 142). <br>
 Thank you team for spurring me on and learning together with me.
