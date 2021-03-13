@@ -19,12 +19,10 @@ Team selected the use of Telco Churn Dataset. Business goal set to addressing hi
 Project can be done using any tools, and the team used IBM Watson Studio, Rapidminer and Tableau, while I code using Python in parallel. <br>
 Due to the compactness of the course, the team had 8 days from task allocation to final presentation.<br>
 <h3>Project Contraints:</h3>
-Taking away the time needed for discussions, coaching the team members in Python fundamentals, preparing my individual MS Powerpoint slides and team rehearsals for presentation, I had FOUR DAYS to code, using unfamiliar libraries such as Scikit-Learn, BentoML, and other estimator algorithms. <br>
-Flask, Docker and other infrequently used tools needed to be refreshed, and free accounts were set up in Azure, Google Clouds, AWS, and Heroku for testing.<br>
+Taking away the time needed for discussions, coaching the team members in Python fundamentals, preparing my individual MS Powerpoint slides and team rehearsals for presentation, I had FOUR DAYS to code, using unfamiliar libraries such as Scikit-Learn, BentoML, and other estimator algorithms. Flask, Docker and other infrequently used tools needed to be refreshed, and free accounts were set up in Azure, Google Clouds, AWS, and Heroku for testing. <br>
 As I am wrapping up the second portion of this project (prescriptive analytics), I had to dive into various theories not covered in the course such as the concept of Model Drift (Concept Drift and Data Drift).<br>
 Challenging? Yes, tons of documentations to read, as well as constant trial and errors late at night till the sun comes out.<br>
 Fun? Definitely.<br>
 <h3>Project Outcome:</h3>
-Copious amount of coffee and long heart-to-heart chats with my rubber ducky later... the project was completed.<br> 
-Most of the team members achieved above 96% grading for this project, and with their full support I managed to score 100% in this project grading.<br><p>
+Copious amount of coffee and long heart-to-heart chats with my rubber ducky later... the project was completed. Most of the team members achieved above 96% grading for this project, and with their full support I managed to score 100% in this project grading.<br><br>
 Thank you team for spurring me on and learning together with me.
