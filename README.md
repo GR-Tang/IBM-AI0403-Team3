@@ -14,7 +14,7 @@ Instructors should highlight to learners that the 8 stages in data science metho
 The second grouping addresses predictive and prescriptive analytics, whereas the first grouping addresses descriptive analytics, etc.<br>
 Note: The extent of approach will be dependent on type of data, business goals, etc. The roles required will feature more of Data Scientist and Data Engineer in the second grouping due to increases complexity too.
 <br>
-<h3>Project Intro:</h3><br>
+<h3>Project Intro:</h3>
 Team selected the use of Telco Churn Dataset. Business goal set to addressing high churn rate in telco company.<br>
 Project can be done using any tools, and the team used IBM Watson Studio, Rapidminer and Tableau, while I code using Python in parallel. Due to the compactness of the course, the team had 8 days from task allocation to final presentation.<br>
 <h3>Project Contraints:</h3>
