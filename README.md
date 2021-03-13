@@ -20,8 +20,10 @@ Project can be done using any tools, and the team used IBM Watson Studio, RapidM
 <h3>Project Contraints:</h3>
 Taking away the time needed for discussions, coaching the team members in Python fundamentals, preparing my individual MS Powerpoint slides and team rehearsals for presentation, I had FOUR DAYS to code, using unfamiliar libraries such as Scikit-Learn, BentoML, and other estimator algorithms. Flask, Docker and other infrequently used tools needed to be refreshed, and free accounts were set up in Azure, Google Clouds, AWS, and Heroku for testing. <br>
 As I am wrapping up the second portion of this project (prescriptive analytics), I had to dive into various theories not covered in the course such as the concept of Model Drift (Concept Drift and Data Drift).<br><br>
-Challenging? Yes, tons of documentations to read, as well as constant trial and errors late at night till the sun comes out.<br>
+Challenging? Yes, tons of documentations to read, as well as countless trial and errors late at night till the sun comes out.<br>
 Fun? Definitely.<br>
 <h3>Project Outcome:</h3>
-Copious amount of coffee and long heart-to-heart chats with my rubber ducky later... the project was completed. Most of the team members achieved above 96% grading for this project, and with their full support I managed to score 100% in this project grading.<br><br>
+Copious amount of coffee and long heart-to-heart chats with my rubber ducky later... the project was completed. Most of the team members achieved above 96% grading for this project, and with their full support I managed to score 100% in this project grading.<br>
+<img src="https://user-images.githubusercontent.com/71828614/111037787-b0086880-8460-11eb-92ac-880e68544292.jpg">
+<br>
 Thank you team for spurring me on and learning together with me.
