@@ -5,7 +5,6 @@ For the team's trial usage of jupyter notebook in colab.
 
 <h3>Background & Guidelines of Project: </h3>
 ![image](https://user-images.githubusercontent.com/71828614/111015054-ee127780-83e1-11eb-878f-1240b8cd3277.png)
-
 ![image](https://user-images.githubusercontent.com/71828614/111014914-13eb4c80-83e1-11eb-93f0-8e052638c016.png)
 Instructors should highlight to learners that the 8 stages in data science methodology approach can be viewed as two larger groupings:
 <ul>
@@ -28,8 +27,3 @@ Fun? Definitely.<br>
 Copious amount of coffee and long heart-to-heart chats with my rubber ducky later... the project was completed.<br> 
 Most of the team members achieved above 96% grading for this project, and with their full support I managed to score 100% in project grading.<br>
 Thank you team for spurring me on and learning together with me.
-
-
-
-
-
