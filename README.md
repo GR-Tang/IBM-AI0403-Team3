@@ -1,8 +1,6 @@
 # IBM-AI0403-Team3
 <h2>Data Science Capstone Project</h2>
 
-For the team's trial usage of jupyter notebook in colab.
-
 <h3>Project Requirements: </h3>
 <img src="https://user-images.githubusercontent.com/71828614/111017194-d68cbc00-83ec-11eb-8451-3d19294ab0bc.jpg">
 
